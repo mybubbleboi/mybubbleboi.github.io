@@ -1,9 +1,33 @@
 # 🍕Hello Bubbleboi
 hello, Bubbleboi here.ʕง•ᴥ•ʔง<br>
-ʕง•ᴥ•ʔง👋嗨，我是「Bubbleboi」这是我的web:log.<br>
-「Bubbleboi」是一个刚开始的博客，记录每天的美好、思考。<br>
+👋嗨，我是「Bubbleboi」这是我的博客，我很懒，但喜欢奶茶喝披萨.<br>
+「Bubbleboi」是一个刚开始的博客，记录美好、思考。<br>
 ![IMG_9651.gif](https://s2.loli.net/2024/07/12/z2SkX9NnK8YZEmQ.gif)
 
+---
+<div class="text-box"><font color="#ffffff"><center>Dream</center></font></div>
+<style>
+.text-box {
+    background: #23ade9; /* 背景颜色 */
+    border: 1px solid #ddd; /* 边框颜色 */
+    border-radius: 10px; /* 边框圆角 */
+    padding: 5px; /* 内边距 */
+    width: 75px; /* 宽度 */
+    max-width: 100%; /* 最大宽度 */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+}
+</style>
+
+## 梦想没有截止期
+•ᴥ•2024,07,20
+
+>我保证你的想法比你想象的要多得多。
+>你不缺乏想法，你缺乏最后期限。
+
+我认为这是我通过每天写博客文章学到的最重要的事情之一。设定一个感觉遥不可及的截止日期节奏实际上迫使你伸展自己去达到它。随着时间的推移，如果你继续这样做，它就会变得更容易。<br>
+每天必须写一篇帖子，让我在通常找不到的想法中找到想法。它让我审视我通常从脑海中观察的生活部分，并使这些想法变得有形。<br>
+当只有我面对那天即将到来的最后期限时，打破最后期限的唯一方法就是发挥创造力并思考一些事情。并非每个被迫提出的想法都是好的，但你的想法比你想象的要多得多，其中一些想法注定是体面的。<br>
+ <img src="https://typehut.s3.amazonaws.com/uploads/6816/a90602b0-2f95-4353-8370-f86158322d4a-mak-GkcX8ROUTTc-unsplash.jpg"  width="300" height="500" alt="道路">
 ---
 <div class="text-box"><font color="#ffffff"><center>Place</center></font></div>
 <style>
@@ -32,7 +56,7 @@ hello, Bubbleboi here.ʕง•ᴥ•ʔง<br>
 你可以做很多事情，比如锻炼、学习和练习，这些都可以奖励和提高你的能力。这是显而易见的，对吗？<br>
 如果你有驱动你的东西，而那东西不是工作，也永远不可能是工作，那么当然——得到你能做的最轻的工作。<br>
 把时间投入到那个东西上。也许你在工作中所做的是你的主要产出，或产出的一部分，或者只是你为了钱而做的事情。<br>
-
+ <img src="imge/2.jpg"  width="700" height="500" alt="CD">
 ---
 <div class="text-box"><font color="#ffffff"><center>Thinking</center></font></div>
 <style>
