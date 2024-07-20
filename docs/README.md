@@ -1,6 +1,6 @@
 # 🍕Hello Bubbleboi
 hello, Bubbleboi here.ʕง•ᴥ•ʔง<br>
-👋嗨，我是「Bubbleboi」这是我的博客，我很懒，但喜欢奶茶喝披萨.<br>
+👋嗨，我是「Bubbleboi」这是我的博客，我很懒，但喜欢奶茶和披萨.<br>
 「Bubbleboi」是一个刚开始的博客，记录美好、思考。<br>
 ![IMG_9651.gif](https://s2.loli.net/2024/07/12/z2SkX9NnK8YZEmQ.gif)
 
