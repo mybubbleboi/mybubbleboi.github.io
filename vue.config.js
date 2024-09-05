@@ -1,0 +1,1 @@
+require('events').EventEmitter.defaultMaxListeners = 0; // 解除监听器数量限制
